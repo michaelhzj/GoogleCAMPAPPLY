@@ -61,8 +61,8 @@ whole project
 
 - I have pass first three project in this degree using Tensorflow  and  will finish this class at June.2017
 
-More detail Infomation Click on **[UdacityPassProject](https://github.com/michaelhzj/Udacity_Pass_project.git)**
-### Udacity Project1   predict daily bike rental ridership use history data 
+- More detail Infomation Click on **[UdacityPassProject](https://github.com/michaelhzj/Udacity_Pass_project.git)**
+### Udacity Project1   predict numbers of bike rental  
 ### Udacity Project2   Image classification
 ### Udacity Project3   Generate TV Scripts 
 
@@ -83,11 +83,12 @@ More detail Infomation Click on **[UdacityPassProject](https://github.com/michae
 
 ---
 
-#Proposed ideas For Google Camp
+# Proposed ideas For Google Camp
 
-* I want to implement Paper Autoencoder Regularized Network For Driving Style Representation Learning  From  IBM Research – China 2017 . first i will using Tensorflow and more infomation dataset like triffc condition and Road type to  improve performance of the ARNet which had been proved an effective way for driving style representation
-* My Main propose is to find the Accident trip style/driver style which have the most risk to rasie the Potential triffic accident.The Original deep learning structure called ARNet
+* I want to implement Paper Autoencoder Regularized Network For Driving Style Representation Learning  From  IBM Research – China 2017 . First i will using Tensorflow and extend the dataset more variable data Field like triffc condition and Road type to  improve performance of the ARNet which had been proved an effective way for driving style representation
+* My Main propose is to find the Accident trip style or driver style which have the higher risk to rasie the Potential triffic accident.The Original deep learning structure called ARNet
 it can direct learn driver representation from GPS data and it combines unsupervised and supervised feature learning by introducing an autoencoder as a special regularizer to supervised feature learning .
 * I will change the supervise part of the network from  classifer  individual driver to classifer  accident risk of trip
-* To identifer risk of trip is very important field not only in business but also in humanism .it will provide The essential infomation of drivers who may have the traffic problem in the future and company can take action in time  to reduce or eliminate danger
-* More Related Work  is implement  good driving style to self-driving car  to  enhence  Comfort  and safty and keep appropriate road speed 
+* To identifer risk of trip is very important field not only in business but also in humanism .It will provide The essential infomation of drivers who may have the traffic problem in the future and company can take action in time  to reduce or eliminate danger
+* Go further I will predict  a range of time of take accident base on who have the higher Petential accident risk 
+* More Related Work  is implement  good driving style to self-driving car it may improve the performance of self-driving  car in variety of complex roads and road conditions to keep a appropriate driving speed and good Comfort experience and ensure safety .It also can combines other sensor data like Camera and laser to make a better performance 
