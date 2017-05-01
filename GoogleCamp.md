@@ -54,8 +54,8 @@ whole project
 
 # Open source and Project show
 # ``` BI Product and Data Vistializ```
-![](http://i.imgur.com/nezmhBa.png)
-![](http://i.imgur.com/XV1T4JB.png)
+![](http://i.imgur.com/eG90kWo.png)
+![](http://i.imgur.com/cd0l1Z3.png)
 
 # ```Project NoteBook```
 
