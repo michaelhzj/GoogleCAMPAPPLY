@@ -3,38 +3,61 @@
 
 ![](http://i.imgur.com/Mh4kQ7M.jpg)
 
- - ```HeZiJing``` ```26```  ```China BeiJing``` 
+ - ```HeZiJing``` ```30```  ```China BeiJing``` 
  - Beijing Information Science and Technology University 
- - Intelligent Science
- - 5 yearsexperience
- - ```Data product manager``` ```BI```
- - DiDi Chuxing
+ - Intelligent Science  major
+ - 10 yearsexperience
+ - ```product founder```  
+ - ```AI anime creation plantform project```
+ - ```ZAO Star team```  
  - ```458922843@qq.com``` or ```bw_bjhzj@163.com```
  - 0086-15011158031
  
 ---
 
-# Resume
+# Entrepreneurship project  2019.08 - present
+- As  CIYUANJIANGWEI  founder  i  set up a Professional AI team  to   increase the efficiency of the  old  method of  traditional 2d animation
+- our Core AI  team  is from  Alibaba DAMO Academy  and  ZAO app  AI  team
+- we  want  to Lower the threshold of animation production  and   bring  this   technology   to   anyone  who  have  a   story
+- we  have  develop   several  ai   model  can  generate   anime   automatic
 
-## DiDi Chuxing （ 2016.09 –To present ）
+# Core team  Past projects
+https://www.youtube.com/watch?v=V0i4S5cxuqY  ZAO app
 
-### Safety Management Department 
+# Introduction  link
+- https://www.youtube.com/watch?v=y1FsbwYQfHc&t=62s  project introduction
+- https://www.youtube.com/watch?v=hfYtebFaM6w    anime  generate demo
+
+# Vision
+The core of human civilization is the inheritance of cultural thoughts.so that  We create  language books music pictures and movies.
+And  I  think  anime  is  very  special  and  advanced  artistic form. It's  can use  Simple abstract and exaggerated Picture to Describe the story.
+But tradition  2d  anime  having  very  low  efficient. They  need  to painting  the  video  frame by frame. But now  i think  it's  time  to   change.
+we  want  to  bring  this  artistic  to  anyone.  People  can  use  this  technology  to  create  own  anime  easely . And  anyone  need it. 
+Because  we  all  have  dream  and  past  incident 
+
+
+# work experience
+
+### IQIYI senior AI  product manager（ 2018.05 –2020.10 ）
+One of the largest Online long video platform
+- Manage AI product team and plan product path
+- Build AI platform  to  promote  AI  engineering capability
+- Full responsibility to  video understanding  Face recognition   Video production  
+- Use  ai  model  to  increase the efficiency of traditional video editing 
+
+### DiDi Chuxing BI lead（ 2016.09 –2018.03 ）
+The world's largest Online car Hailing platform
 - Analyze data of road safety and Assist in the establishment of KPI assessment system
-- Establish a safety data warehouse
-- As the product Manager of Driving behavior monitoring
-- Provide daily  operation data support
-- Government - enterprise cooperation data support
-- Research and study the latest popular technology to reduce traffic accidents
+- Establish a safety data warehouse help AI team  build  features
+- As the product Manager of the  project Driving behavior monitor
+- Daily  operation data support
+- Government enterprise cooperation data support
+- Research and follow the latest new  machine learning to build  model  that  help  reduce traffic accidents
+- We have  saved  hundreds of  traffic accident  and   thousand of  peoples life  through  Driving behavior Deep learning  model 
 
 
-## Anhui Yu Cheng Finance Leasing Co., Ltd. （ 2015.4-2016.9 ）
-- Responsible as the Background product leader 
-- Responsible as the Data product Manager
-- Design the main backstage business process
-- Supervise and control the progress of the 	
-whole project
- 
-## CHINA POWER INTERNATIONAL LIMITED （ 2012.7-2015.4 ）
+### CHINA POWER INTERNATIONAL LIMITED  data  manager（ 2012.7-2015.4 ）
+One of the largest power generation companies in China
 -  Assist ETL Development --tool informatica、plsql 
 -  Responsible and Maintenance to the front end Report/DashBoard AS PARTY A --tool MicroStrategy、plsql 
 -  Check and Review data reliability though Business Papers with logic sence 
